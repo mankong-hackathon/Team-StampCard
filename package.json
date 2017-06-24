@@ -1,0 +1,19 @@
+{
+  "name": "mankong-hackathon",
+  "version": "0.1.0",
+  "description": "An awesome voice analytics tool for sales teams",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mankong-hackathon/Team-StampCard.git"
+  },
+  "author": "Chen Li",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mankong-hackathon/Team-StampCard/issues"
+  },
+  "homepage": "https://github.com/mankong-hackathon/Team-StampCard#readme"
+}
