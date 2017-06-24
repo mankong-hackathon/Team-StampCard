@@ -4,9 +4,13 @@
   "description": "An awesome voice analytics tool for sales teams",
   "dependencies": {
     "antd": "^2.11.1",
+    "brain": "^0.7.0",
     "es6-promise": "^4.0.5",
+    "json-loader": "^0.5.4",
+    "mimir": "0.0.1",
     "react": "^15.4.1",
     "react-dom": "^15.4.1",
+    "react-particles-js": "^1.5.0",
     "react-preload": "^0.5.0",
     "react-redux": "^5.0.1",
     "react-router": "^3.0.0",
