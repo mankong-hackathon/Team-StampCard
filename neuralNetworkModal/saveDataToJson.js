@@ -73,7 +73,13 @@ let textLists = [
   ["Let’s start by taking down company information and I’ll walk you through our setup process. ", ANN_Classes.CLOSE],
   ["Try it out for 30 days and if you’re not happy, we’ll give you your money back, no questions asked.", ANN_Classes.CLOSE],
   ["Our unlimited plan starts at $3000 per month but I can give it to you for $2500 per month.", ANN_Classes.CLOSE],
+
+  ["Hey, it’s Clement, I am calling from Clevo. We provide call analytics to enterprise sales teams like yourself. Is this a good time?", ANN_Classes.INTRO],
+  ["Well we already work with big companies like Telus and Shaw. ", ANN_Classes.CREDIBILITY],
+  ["How often do you call shadow and provide feedback to your team?", ANN_Classes.PROBING],
+  ["With Clevo, we can automatically transcribe and categorize your call recordings so you don’t have to do it manually.", ANN_Classes.BENEFITS]
 ];
+
 
 
 
