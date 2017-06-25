@@ -28,6 +28,9 @@ const styles = {
   },
   tag:{
     marginBottom: 10,
+    fontSize: "16px",
+    padding: 6,
+    height: "34px",
   },
   leftCol:{
     overflow: "auto",
@@ -59,7 +62,7 @@ const InputBox = (props) => {
         {
           props.tempText.length > 0
           &&
-          <CheckableTag>
+          <CheckableTag style={styles.tag}>
             {props.tempText}
           </CheckableTag>
         }
